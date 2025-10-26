@@ -1,0 +1,72 @@
+/* div {
+  border: 2px solid;
+} */
+
+body {
+  font-family: 'Sarabun', sans-serif;
+  background-color: #474747;
+    padding-top: 70px; /* สูงเท่า navbar */
+}
+
+.bgboxx {
+  background-color: #fff3aa;
+}
+
+.center-box {
+  display: flex;
+  justify-content: center;
+  /* จัดแนวนอน */
+  align-items: center;
+  /* จัดแนวตั้ง */
+  text-align: center;
+  /* จัดข้อความตรงกลาง (สำหรับหลายบรรทัด) */
+}
+
+.rounded-shadow {
+  border-radius: 12px;       /* ขอบมน */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 3);  /* เงา */
+}
+
+.rounded-shadow1 {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 3);  /* เงา */
+}
+
+.font-outfit
+{font-family: 'Outfit', sans-serif;}
+.font-prompt
+{ font-family: 'Prompt', sans-serif;}
+.font-lora
+{ font-family: 'Lora', serif;}
+
+.textyellow {color: #fff3aa;}
+.textwhite {color: #ffffff;}
+
+.accordion-button {
+  background-color: #fff3aa;
+  color: #000000;}
+
+.accordion-button:not(.collapsed)
+{ background-color: #fff3aa; /* สีฟ้าเข้ม */
+  color:#000000; }
+
+.reddd {color: #ff3131;}
+
+.biggerpls {font-size: 60px;}
+
+.biggerpls1 {font-size: 45px;}
+
+.navbar {
+  background-color: #474747 !important;
+}
+
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+.navbar .nav-link:hover {
+  color: #cccccc !important;
+}
+
+.bggradient {
+  background: linear-gradient(to bottom, #ff7e5f, #feb47b);
+}
