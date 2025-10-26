@@ -27,6 +27,10 @@ body {
   box-shadow: 0 4px 15px rgba(0, 0, 0, 3);  /* เงา */
 }
 
+.rounded-shadow1 {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 3);  /* เงา */
+}
+
 .font-outfit
 {font-family: 'Outfit', sans-serif;}
 .font-prompt
@@ -49,6 +53,8 @@ body {
 
 .biggerpls {font-size: 60px;}
 
+.biggerpls1 {font-size: 45px;}
+
 .navbar {
   background-color: #474747 !important;
 }
@@ -59,4 +65,8 @@ body {
 
 .navbar .nav-link:hover {
   color: #cccccc !important;
+}
+
+.bggradient {
+  background: linear-gradient(to bottom, #ff7e5f, #feb47b);
 }
